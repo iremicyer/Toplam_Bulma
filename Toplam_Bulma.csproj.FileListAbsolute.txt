@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Toplam_Bulma\Toplam_Bulma\bin\Debug\netcoreapp3.1\Toplam_Bulma.exe
+C:\Users\Administrator\source\repos\Toplam_Bulma\Toplam_Bulma\bin\Debug\netcoreapp3.1\Toplam_Bulma.deps.json
+C:\Users\Administrator\source\repos\Toplam_Bulma\Toplam_Bulma\bin\Debug\netcoreapp3.1\Toplam_Bulma.runtimeconfig.json
+C:\Users\Administrator\source\repos\Toplam_Bulma\Toplam_Bulma\bin\Debug\netcoreapp3.1\Toplam_Bulma.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Toplam_Bulma\Toplam_Bulma\bin\Debug\netcoreapp3.1\Toplam_Bulma.dll
+C:\Users\Administrator\source\repos\Toplam_Bulma\Toplam_Bulma\bin\Debug\netcoreapp3.1\Toplam_Bulma.pdb
+C:\Users\Administrator\source\repos\Toplam_Bulma\Toplam_Bulma\obj\Debug\netcoreapp3.1\Toplam_Bulma.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Toplam_Bulma\Toplam_Bulma\obj\Debug\netcoreapp3.1\Toplam_Bulma.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Toplam_Bulma\Toplam_Bulma\obj\Debug\netcoreapp3.1\Toplam_Bulma.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Toplam_Bulma\Toplam_Bulma\obj\Debug\netcoreapp3.1\Toplam_Bulma.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Toplam_Bulma\Toplam_Bulma\obj\Debug\netcoreapp3.1\Toplam_Bulma.dll
+C:\Users\Administrator\source\repos\Toplam_Bulma\Toplam_Bulma\obj\Debug\netcoreapp3.1\Toplam_Bulma.pdb
+C:\Users\Administrator\source\repos\Toplam_Bulma\Toplam_Bulma\obj\Debug\netcoreapp3.1\Toplam_Bulma.genruntimeconfig.cache
